@@ -1,0 +1,16 @@
+[package]
+name = "tensorx"
+version = "0.1.0"
+edition = "2024"
+authors = ["Dariush Ghassemieh <dariush@ghassemieh.com>"]
+description = "A modular tensor library with CPU and GPU backends, written in Rust."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/dariush-g/tensorx.git" # Replace with your actual repo URL
+documentation = "https://docs.rs/tensorx"              # Optional but standard
+keywords = ["tensor", "gpu", "math", "rust"]
+categories = ["science", "mathematics", "data-structures"]
+readme = "../README.md"
+
+[dependencies]
+tensorx-core = { path = "../tensorx-core", version = "0.1.0" }
+tensorx-gpu = { path = "../tensorx-gpu", version = "0.1.0" }
