@@ -1,6 +1,6 @@
 # tensr
 
-**tensr** is an experimental, modular tensor computation library written in Rust, with early support for GPU acceleration via `wgpu`. It’s designed as a learning project and a prototype—not a production-ready library.
+**tensorx** is an experimental, tensor computation library written in Rust, with basic support for GPU via `wgpu`. It’s designed as a learning project and a prototype—not a complete library.
 
 ## Features
 
