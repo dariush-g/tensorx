@@ -1,1 +1,0 @@
-/home/dariushg/tensr/target/debug/libtensorx_core.rlib: /home/dariushg/tensr/tensorx-core/src/error.rs /home/dariushg/tensr/tensorx-core/src/lib.rs /home/dariushg/tensr/tensorx-core/src/tensor.rs /home/dariushg/tensr/tensorx-core/src/view.rs
