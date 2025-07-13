@@ -1,4 +1,4 @@
-# tensr
+# tensorx
 
 **tensorx** is an experimental, tensor computation library written in Rust, with basic support for GPU via `wgpu`. It’s designed as a learning project and a prototype—not a complete library.
 
