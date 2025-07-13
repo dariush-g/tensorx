@@ -1,8 +1,3 @@
 [workspace]
 members = ["tensorx", "tensorx-core", "tensorx-gpu"]
 
-[workspace.dependencies]
-wgpu = { version = "0.19" }
-tensorx_core = { path = "tensorx-core" }
-tensorx_gpu = { path = "tensorx-gpu" }
-tensorx = { package = "tensorx" }
